@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47drh044po6pfu4tkr4lherj5v7yd3exzaumcms25t&rid=giphy.gif&ct=g" width="250"/>
+  <img src="https://media2.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47drh044po6pfu4tkr4lherj5v7yd3exzaumcms25t&rid=giphy.gif&ct=g" width="200"/>
 </div>
 <div align="center" id="badges">
   <a href ="https://www.linkedin.com/in/vince-gasimov/">
@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="250" height="200"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="200" height="200"/>
 </div>
 
 ---
