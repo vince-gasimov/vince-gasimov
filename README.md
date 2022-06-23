@@ -16,9 +16,9 @@
 ### :man_technologist: About Me : I am a Automation QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
 
-- :seedling: Exploring New Technologies And Tools.
+- :zap: I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tolls.
 
-- :zap: In my free time, read tech articles.
+- :seedling: Exploring New Technologies And Tools.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Vince-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
 ---
