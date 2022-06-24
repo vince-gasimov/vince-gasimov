@@ -20,7 +20,7 @@
 
 - :seedling: Exploring New Technologies And Tools.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Janette-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/janette-bayle/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VINCE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
