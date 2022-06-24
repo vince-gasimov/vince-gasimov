@@ -46,6 +46,8 @@
 
 ### :fire: My Stats :
 
+<div align="center">
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+  </div>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=vince-gasimov&theme=dark)](https://git.io/streak-stats)
