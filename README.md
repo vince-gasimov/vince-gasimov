@@ -48,7 +48,7 @@
 
 ### :fire: My Stats :
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vince-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="vince-gasimov" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=vince-gasimov&label=Profile%20views&color=0e75b6&style=flat" alt="vince-gasimov" /> </p>
 
 <p align="left">
 </p>
