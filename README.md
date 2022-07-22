@@ -51,7 +51,7 @@
 
 <div align="center">
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vince-gasimov&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
 
