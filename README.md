@@ -71,3 +71,7 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vince-gasimov&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
   
   </div>
+  
+  <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=7300e6&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+</div>
