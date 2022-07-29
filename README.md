@@ -74,4 +74,9 @@
   
   <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=7300e6&height=150&section=footer&text=Done?&fontSize=50&fontAlignY=65&desc=Checkout%20some%20of%20my%20projects.%20Get%20in%20touch&descSize=20&descAlignY=88&animation=twinkling"/>
+<div align="center" id="badges">
+  <a href ="https://www.linkedin.com/in/vince-gasimov/">
+    <img src="https://img.shields.io/badge/VINCE-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
 </div>
