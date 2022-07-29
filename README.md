@@ -6,10 +6,6 @@
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vince;Software+QA+Engineer+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
-
-<div id="header" align="center">
-  <img src="https://media2.giphy.com/media/oYQ9HRm5Mo7VXeMNVR/giphy.gif?cid=ecf05e47drh044po6pfu4tkr4lherj5v7yd3exzaumcms25t&rid=giphy.gif&ct=g" width="200"/>
-</div>
 <div align="center" id="badges">
   <a href ="https://www.linkedin.com/in/vince-gasimov/">
     <img src="https://img.shields.io/badge/VINCE-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
