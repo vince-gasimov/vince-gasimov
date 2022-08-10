@@ -3,7 +3,7 @@
 <div align="center" ><img width="100%" alt="Welcome To My Profile!"src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vince;Software+QA+Engineer+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vince;Software+Automation+Tester+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 <div align="center" id="badges">
@@ -18,7 +18,7 @@
 
 ---
 
-### :man_technologist: About Me : I am a Software QA Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+### :man_technologist: About Me : I am a Software Automation Test Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
 
 - :zap: I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tolls.
