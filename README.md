@@ -3,7 +3,7 @@
 <div align="center" ><img width="100%" alt="Welcome To My Profile!"src="https://github.com/Carol42/Carol42/blob/main/assets/header.png"></div>
 
 <div align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vince;Software+QA+Engineer+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Slab&color=%237E3ACE&size=30&center=true&vCenter=true&width=450&lines=I'm+Vince;Software+Automation+Engineer+In+USA" alt="Computer Engineering Student, Brazilian front-end developer, Power Metal lover"></a>
 </div>
 
 <div align="center" id="badges">
