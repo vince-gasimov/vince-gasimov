@@ -19,17 +19,21 @@
 ---
 
 ### :man_technologist: About Me : I am a Data Science Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 💼 I’m working as a Data Science Engineer focusing on transforming raw data into actionable insights and deployable ML models.
 
-- 📊 Strong foundation in Python, statistics, data analysis, and feature engineering.
+---
 
-- 🧠 Experienced with machine learning pipelines, model training, evaluation, and API deployment.
+💼 I’m working as a Data Science Engineer focusing on transforming raw data into actionable insights and deployable ML models.
 
-- ⚡ Skilled in building automated workflows, backend integrations, and scalable data systems.
+📊 Strong foundation in Python, statistics, data analysis, and feature engineering.
 
-- 🤖 Constantly exploring new AI models and machine learning techniques for data science and advanced analytics.
+🧠 Experienced with machine learning pipelines, model training, evaluation, and API deployment.
 
-- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VINCE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
+⚡ Skilled in building automated workflows, backend integrations, and scalable data systems.
+
+🤖 Constantly exploring new AI models and machine learning techniques for data science and advanced analytics.
+
+📬 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VINCE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
+
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
