@@ -19,11 +19,15 @@
 ---
 
 ### :man_technologist: About Me : I am a Data Science Engineer from USA. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for testing web applications.
+- 💼 I’m working as a Data Science Engineer focusing on transforming raw data into actionable insights and deployable ML models.
 
-- :zap: I have solid experience with Automated Testing, Selenium WebDriver, and API Testing tolls.
+- 📊 Strong foundation in Python, statistics, data analysis, and feature engineering.
 
-- :seedling: Exploring New Technologies And Tools.
+- 🧠 Experienced with machine learning pipelines, model training, evaluation, and API deployment.
+
+- ⚡ Skilled in building automated workflows, backend integrations, and scalable data systems.
+
+- 🤖 Constantly exploring new AI models and machine learning techniques for data science and advanced analytics.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-VINCE-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/vince-gasimov/)
 ---
